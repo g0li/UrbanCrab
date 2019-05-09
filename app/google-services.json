@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798959787839",
+    "firebase_url": "https://urbancrab-3311c.firebaseio.com",
+    "project_id": "urbancrab-3311c",
+    "storage_bucket": "urbancrab-3311c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798959787839:android:74300ed04c4bb978",
+        "android_client_info": {
+          "package_name": "com.lilliemountain.urbancrab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798959787839-eu5mdrjp158dcq9nvsn85abvgr9k53hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lilliemountain.urbancrab",
+            "certificate_hash": "5bbc59296eee597bcc7f77821f7beb31ecf7df73"
+          }
+        },
+        {
+          "client_id": "798959787839-ppccnaf0lc2efhkq9gcenigivpl0j97q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK6DiU7rxrWrlx3flSpmlMbnlFnwUQEwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798959787839-ppccnaf0lc2efhkq9gcenigivpl0j97q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

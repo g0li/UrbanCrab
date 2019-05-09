@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/mybookings"
+        android:title="My Bookings"
+        android:icon="@drawable/ic_airport_shuttle"
+        app:showAsAction="always"/>
+    <item android:id="@+id/myprofile"
+        android:title="My Profile"
+        android:icon="@drawable/ic_tag_face"
+        app:showAsAction="always"/>
+</menu>
